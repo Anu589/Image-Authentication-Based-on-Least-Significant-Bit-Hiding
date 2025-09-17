@@ -4,7 +4,7 @@
 This project presents an approach for **Image Authentication** based on the **2-Bit Method** using **Arnold’s Cat Map**. The primary objective is to embed a watermark in images securely, ensuring their authenticity and integrity, which is especially useful for medical images. 🏥🔒
 
 ## 👨‍💻 Authors
-- **Arnab Bera** 
+- **Anushka Chakraborty** 
 
 ## 🏫 Institution
 **Chennai Mathematical Institute, Chennai**
